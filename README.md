@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 📍 Paranaguá - PR
-- 👨‍💻 Desenvolvedor Web full stack | Marketing Digital 
+- 👨‍💻 Desenvolvedor Web full stack
 - 📫 guicgarcia94@hotmail.com
 - :office: Puzl Place
 
