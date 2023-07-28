@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 <img src="https://www.palpitedigital.com/y/4513/java-e1561385686305.jpeg" alt="java" width="80" height="40">
 <img src="https://brandslogos.com/wp-content/uploads/thumbs/kotlin-logo-vector.svg" alt="kotlin" width="80" height="40">
 <img src="https://logospng.org/wp-content/uploads/vue-js.png" alt="kotlin" width="80" height="40">
-  <img src="https://img2.gratispng.com/20171217/033/letter-c-png-5a36954d474e54.1991877715135266052921.jpg" alt="C" width="80" height="40">
+  <img src="https://img2.gratispng.com/20171217/033/letter-c-png-5a36954d474e54.1991877715135266052921.jpg" alt="C" width="40" height="40">
 </p>
