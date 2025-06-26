@@ -8,7 +8,6 @@ Here are some ideas to get you started:
 
 - 📍 Paranaguá - PR
 - 👨‍💻 Desenvolvedor Web full stack
-- 📫 guicgarcia94@hotmail.com
 - :office: Puzl Place
 - https://github.com/guicgarcia
 
