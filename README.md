@@ -10,6 +10,7 @@ Here are some ideas to get you started:
 - 👨‍💻 Desenvolvedor Web full stack
 - 📫 guicgarcia94@hotmail.com
 - :office: Puzl Place
+- https://github.com/guicgarcia
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/guilherme-chaves-garcia/)](https://www.linkedin.com/in/guilherme-chaves-garcia/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-violet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/guicgarcia94/)](https://www.instagram.com/guicgarcia94/)
